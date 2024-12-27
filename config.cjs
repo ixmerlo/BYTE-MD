@@ -8,7 +8,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "OWNER_NUMBER": "923072380380",
+  "OWNER_NUMBER": "233202641191",
   "OWNER_NAME": "Hamza",
   "ALWAYS_ONLINE": true,
   "PRESENCE": "online",
